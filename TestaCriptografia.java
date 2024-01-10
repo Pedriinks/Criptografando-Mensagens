@@ -3,7 +3,6 @@ package criptografia;
 import java.util.Scanner;
 public class TestaCriptografia {
     
-    
     public static void main(String[] args){
         Scanner entrada = new Scanner(System.in);
         
